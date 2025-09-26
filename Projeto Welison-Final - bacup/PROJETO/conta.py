@@ -15,7 +15,7 @@ class Conta:
     def __init__(self, usuario: Usuario):
         self.__usuario = usuario                          # Armazena o objeto Usuario
         self.__email = usuario.email()                    # Usa o e-mail como identificador único
-        self.__historico = self.carregar_historico_usuario()  # Carrega o histórico do usuário (ou lista vazia)
+        self.__historico = self.carregar_historico_usuario()  # Carrega o histórico de filmes do usuário (ou lista vazia)
 
     # Adiciona um filme ao histórico, após confirmar se o usuário já assistiu
     def adicionar_ao_historico(self, titulo_filme):
