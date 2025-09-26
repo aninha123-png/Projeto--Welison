@@ -1,0 +1,38 @@
+[
+    {
+        "titulo": "O Poderoso Chefão",
+        "genero": "Crime, Drama",
+        "ano": 1972,
+        "link_streaming": "https://youtu.be/88nc6NwAQG4?si=1Up6Wqg65zhVqo4E",
+        "descricao": "Um patriarca de uma dinastia do crime organizado transfere o controle do seu império para seu filho relutante."
+    },
+    {
+        "titulo": "Interestelar",
+        "genero": "Ficção Científica, Drama",
+        "ano": 2014,
+        "link_streaming": "https://www.youtube.com/watch?v=Fvug3LUCkDo",
+        "descricao": "Um grupo de exploradores viaja através de um buraco de minhoca no espaço na tentativa de garantir a sobrevivência da humanidade."
+    },
+    {
+        "titulo": "Parasita",
+        "genero": "Drama, Thriller",
+        "ano": 2019,
+        "link_streaming": "https://www.youtube.com/watch?v=Zf_LRNWpFRs",
+        "descricao": "Uma família pobre se infiltra na casa de uma família rica, mas as coisas não saem como planejado."
+    },
+    {
+        "titulo": "Clube da Luta",
+        "genero": "Drama",
+        "ano": 1999,
+        "link_streaming": "https://www.primevideo.com/-/pt/detail/Clube-da-Luta/0N0CS0LQQGWVRXWT1EI6LATOWB",
+        "descricao": "Um homem insatisfeito com sua vida forma um clube de luta como forma de escapismo, que evolui para algo muito maior."
+    },
+    {
+        "titulo": "Cidade de Deus",
+        "genero": "Crime, Drama",
+        "ano": 2002,
+        "link_streaming": "https://www.youtube.com/watch?v=vxYSM_sNm4A",
+        "descricao": "Na Cidade de Deus, no Rio de Janeiro, dois garotos seguem caminhos opostos: um vira fotógrafo, o outro, chefe do tráfico."
+    }
+]
+
